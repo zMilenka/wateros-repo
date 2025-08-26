@@ -1,3 +1,3 @@
 #!/bin/bash
 ./updatepkgs.sh
-./pushrepo.sh
+./pushrepo.sh "$1"
